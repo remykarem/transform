@@ -1,15 +1,23 @@
-
+use crate::newtypes::PostalCode;
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct HalalEstablishment {
-    name: String,
-    address: String,
-    r#type: String,
-    number: String,
-    scheme: String,
-    id: String,
-    postal: String,
-    latitude: f64,
-    longitude: f64,
+    pub name: String,
+    pub address: String,
+    pub r#type: String,
+    pub number: String,
+    pub scheme: String,
+    pub id: String,
+    pub postal: PostalCode,
+    pub latitude: f64,
+    pub longitude: f64,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub cdc: Option<HasCdc>,
+}
+
+#[derive(Serialize, Deserialize, Debug)]
+pub enum HasCdc {
+    Yes,
+    Maybe,
 }
