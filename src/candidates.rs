@@ -26,11 +26,11 @@ pub fn compare_merchant(merchant: &CdcMerchant, establishment: &HalalEstablishme
 pub fn get_candidate_cdc_merchants<'a>(
     establishment: &HalalEstablishment,
     cdc_merchants_by_postal: &'a HashMap<&PostalCode, Vec<&CdcMerchant>>,
-) -> Option<Vec<&'a CdcMerchant>> {
+) -> Vec<&'a CdcMerchant> {
     let candidates = cdc_merchants_by_postal.get(&establishment.postal);
 
     let Some(candidates) = candidates else {
-        return None;
+        return vec![];
     };
 
     let mut merchants: Vec<&CdcMerchant> = Vec::with_capacity(candidates.len());
@@ -47,5 +47,5 @@ pub fn get_candidate_cdc_merchants<'a>(
     // }
     // }
 
-    Some(merchants)
+    merchants
 }

@@ -24,13 +24,11 @@ fn main() {
         .par_iter_mut()
         .for_each(|establishment| {
             // Get candidates
-            let candidate_cdc_merchants =
+            let candidates =
                 candidates::get_candidate_cdc_merchants(&establishment, &cdc_merchants_by_postal);
 
             // Mutate
-            if let Some(candidates) = candidate_cdc_merchants {
-                establishment.update_cdc(&candidates);
-            }
+            establishment.update_cdc(&candidates);
         });
 
     // Write establishments to a json
