@@ -1,14 +1,14 @@
-use crate::newtypes::PostalCode;
+use crate::types::newtypes::PostalCode;
 use serde::{Deserialize, Serialize};
 
-#[derive(Deserialize, Debug)]
+#[derive(Deserialize)]
 #[serde(rename_all = "camelCase")]
 pub struct CdcData {
     // pub last_updated: String,
     pub locations: Vec<CdcMerchant>,
 }
 
-#[derive(Deserialize, Debug)]
+#[derive(Deserialize)]
 #[serde(rename_all = "camelCase")]
 pub struct CdcMerchant {
     // pub id: String,
@@ -23,13 +23,13 @@ pub struct CdcMerchant {
     // pub last_reset_date: String,
 }
 
-#[derive(Serialize, Deserialize, Debug)]
+#[derive(Serialize, Deserialize)]
 pub struct Filters {
     pub vouchers: Vouchers,
     // pub secondary: Secondary,
 }
 
-#[derive(Serialize, Deserialize, Debug)]
+#[derive(Serialize, Deserialize)]
 pub struct Vouchers {
     // pub supermarket: bool,
     pub hawker_heartland_merchant: bool,

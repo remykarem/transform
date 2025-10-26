@@ -14696,6 +14696,149 @@
     "longitude": 103.895944
   },
   {
+    "name": "Heavenly Wang",
+    "address": "100 BUKIT TIMAH ROAD #01-33A KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
+    "type": "Restaurant",
+    "number": "EERT20220000348",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "229899",
+    "latitude": 1.3102871,
+    "longitude": 103.846439
+  },
+  {
+    "name": "Heavenly Wang",
+    "address": "90 YISHUN CENTRAL #B1-08 KHOO TECK PUAT HOSPITAL 768828",
+    "type": "Restaurant",
+    "number": "EERT20220000349",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "768828",
+    "latitude": 1.4241634,
+    "longitude": 103.8387005
+  },
+  {
+    "name": "Heavenly Wang",
+    "address": "321 JOO CHIAT PLACE #01-10 PARKWAY EAST HOSPITAL 427990",
+    "type": "Restaurant",
+    "number": "EERT20250000048",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "427990",
+    "latitude": 1.2899175,
+    "longitude": 103.8519072
+  },
+  {
+    "name": "Heavenly Wang",
+    "address": "2 BUKIT BATOK WEST AVENUE 7 #01-09C HOME TEAM NS 659003",
+    "type": "Restaurant",
+    "number": "EERT20220000346",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "659003",
+    "latitude": 1.3658955,
+    "longitude": 103.7496395
+  },
+  {
+    "name": "Heavenly Wang",
+    "address": "301 UPPER THOMSON ROAD #03-42/44A THOMSON PLAZA 574408",
+    "type": "Restaurant",
+    "number": "EERT20220000359",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "574408",
+    "latitude": 1.3539799,
+    "longitude": 103.8376769
+  },
+  {
+    "name": "Heavenly Wang",
+    "address": "460 ALEXANDRA ROAD #02-35 MTOWER 119963",
+    "type": "Restaurant",
+    "number": "EERT20230000748",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "119963",
+    "latitude": 1.273844,
+    "longitude": 103.8014262
+  },
+  {
+    "name": "Heavenly Wang",
+    "address": "30 SEMBAWANG DRIVE #01-26 SUN PLAZA 757713",
+    "type": "Restaurant",
+    "number": "EERT20240001121",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "757713",
+    "latitude": 1.4482184,
+    "longitude": 103.8194989
+  },
+  {
+    "name": "Heavenly Wang",
+    "address": "3 SIMEI STREET 6 #B1-K3 EASTPOINT MALL 528833",
+    "type": "Restaurant",
+    "number": "EERT20220000317",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "528833",
+    "latitude": 1.3427071,
+    "longitude": 103.9531057
+  },
+  {
+    "name": "Heavenly Wang",
+    "address": "1 JURONG EAST STREET 21 #01-02 609606",
+    "type": "Restaurant",
+    "number": "EERT20220000335",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "609606",
+    "latitude": 1.3334797,
+    "longitude": 103.7455743
+  },
+  {
+    "name": "Heavenly Wang",
+    "address": "12 MARINA BOULEVARD #02-01/02/03/04 MARINA BAY FINANCIAL CENTRE 018982",
+    "type": "Restaurant",
+    "number": "EERT20220000350",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "018982",
+    "latitude": 1.2790297,
+    "longitude": 103.8545385
+  },
+  {
+    "name": "Heavenly Wang",
+    "address": "1 MARINA BOULEVARD #B1-02 ONE MARINA BOULEVARD 018989",
+    "type": "Restaurant",
+    "number": "EERT20220000353",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "018989",
+    "latitude": 1.2822989,
+    "longitude": 103.8525951
+  },
+  {
+    "name": "Heavenly Wang",
+    "address": "10 AIRPORT BOULEVARD #02-80 CHANGI AIRPORT TERMINAL 4 819665",
+    "type": "Restaurant",
+    "number": "EERT20230001041",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "819665",
+    "latitude": 1.3395913,
+    "longitude": 103.9840761
+  },
+  {
+    "name": "Heavenly Wang",
+    "address": "65 AIRPORT BOULEVARD #02-K1 CHANGI AIRPORT TERMINAL 3 819663",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230001135",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "819663",
+    "latitude": 1.3561312,
+    "longitude": 103.9865387
+  },
+  {
     "name": "Hebat Ayam Penyet",
     "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4 KOPITIAM, Stall 10 819665",
     "type": "Hawker",
@@ -17150,17 +17293,6 @@
   },
   {
     "name": "Kazo",
-    "address": "63 JURONG WEST CENTRAL 3 #01-59/79/80 JURONG POINT 648331",
-    "type": "Restaurant",
-    "number": "EERT20240000060",
-    "scheme": "Eating Establishment",
-    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
-    "postal": "648331",
-    "latitude": 1.339398,
-    "longitude": 103.7057275
-  },
-  {
-    "name": "Kazo",
     "address": "283 TANJONG KATONG ROAD 437066",
     "type": "Restaurant",
     "number": "EERT20240000061",
@@ -17180,6 +17312,17 @@
     "postal": "678278",
     "latitude": 1.3760728,
     "longitude": 103.7859216
+  },
+  {
+    "name": "Kazo",
+    "address": "63 JURONG WEST CENTRAL 3 #01-59/79/80 JURONG POINT 648331",
+    "type": "Restaurant",
+    "number": "EERT20240000060",
+    "scheme": "Eating Establishment",
+    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+    "postal": "648331",
+    "latitude": 1.339398,
+    "longitude": 103.7057275
   },
   {
     "name": "Kazo",
@@ -25554,39 +25697,6 @@
   },
   {
     "name": "OLD CHANG KEE",
-    "address": "78 AIRPORT BOULEVARD #B2-247 JEWEL CHANGI AIPORT 819666",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN20090011396",
-    "scheme": "Eating Establishment",
-    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-    "postal": "819666",
-    "latitude": 1.3601629,
-    "longitude": 103.989956
-  },
-  {
-    "name": "OLD CHANG KEE",
-    "address": "65 AIRPORT BOULEVARD #02-K2 CHANGI AIRPORT TERMINAL 3 819663",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20230000991",
-    "scheme": "Eating Establishment",
-    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-    "postal": "819663",
-    "latitude": 1.3561312,
-    "longitude": 103.9865387
-  },
-  {
-    "name": "OLD CHANG KEE",
-    "address": "60 AIRPORT BOULEVARD #02-K7 CHANGI AIRPORT TERMINAL 2 819643",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20230001236",
-    "scheme": "Eating Establishment",
-    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-    "postal": "819643",
-    "latitude": 1.3531773,
-    "longitude": 103.9883076
-  },
-  {
-    "name": "OLD CHANG KEE",
     "address": "180 KITCHENER ROAD #B1-K5 CITY SQUARE MALL,Stall K5 208539",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20090011436",
@@ -25760,6 +25870,39 @@
     "postal": "757713",
     "latitude": 1.4482184,
     "longitude": 103.8194989
+  },
+  {
+    "name": "OLD CHANG KEE",
+    "address": "78 AIRPORT BOULEVARD #B2-247 JEWEL CHANGI AIPORT 819666",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011396",
+    "scheme": "Eating Establishment",
+    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+    "postal": "819666",
+    "latitude": 1.3601629,
+    "longitude": 103.989956
+  },
+  {
+    "name": "OLD CHANG KEE",
+    "address": "65 AIRPORT BOULEVARD #02-K2 CHANGI AIRPORT TERMINAL 3 819663",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230000991",
+    "scheme": "Eating Establishment",
+    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+    "postal": "819663",
+    "latitude": 1.3561312,
+    "longitude": 103.9865387
+  },
+  {
+    "name": "OLD CHANG KEE",
+    "address": "60 AIRPORT BOULEVARD #02-K7 CHANGI AIRPORT TERMINAL 2 819643",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230001236",
+    "scheme": "Eating Establishment",
+    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+    "postal": "819643",
+    "latitude": 1.3531773,
+    "longitude": 103.9883076
   },
   {
     "name": "OLD CHANG KEE",
@@ -28367,17 +28510,6 @@
     "postal": "228213",
     "latitude": 1.3072547,
     "longitude": 103.8336851
-  },
-  {
-    "name": "Pondok Selera By Nurul Hidayah",
-    "address": "8A ADMIRALTY STREET #07-38 FOOD XCHANGE @ ADMIRALTY 757437",
-    "type": "Catering Company",
-    "number": "FPCA20240001085",
-    "scheme": "Food Preparation Area",
-    "id": "8f6454b2-602c-4716-9676-b445a534cc6a",
-    "postal": "757437",
-    "latitude": 1.4629941,
-    "longitude": 103.8142452
   },
   {
     "name": "POON RESOURCES PTE LTD",
@@ -34332,17 +34464,6 @@
   },
   {
     "name": "SUBWAY",
-    "address": "80 AIRPORT BOULEVARD #03-47/48 CHANGI AIRPORT TERMINAL 1 819642",
-    "type": "Hawker",
-    "number": "EEHK20240000085",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "819642",
-    "latitude": 1.3615212,
-    "longitude": 103.9892205
-  },
-  {
-    "name": "SUBWAY",
     "address": "1 JALAN ANAK BUKIT #B2-FB1 BUKIT TIMAH PLAZA 588996",
     "type": "Restaurant",
     "number": "EERN21110013145",
@@ -34560,6 +34681,17 @@
     "postal": "308433",
     "latitude": 1.3213268,
     "longitude": 103.8465814
+  },
+  {
+    "name": "SUBWAY",
+    "address": "80 AIRPORT BOULEVARD #03-47/48 CHANGI AIRPORT TERMINAL 1 819642",
+    "type": "Hawker",
+    "number": "EEHK20240000085",
+    "scheme": "Eating Establishment",
+    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+    "postal": "819642",
+    "latitude": 1.3615212,
+    "longitude": 103.9892205
   },
   {
     "name": "SUBWAY",
@@ -37464,17 +37596,6 @@
     "postal": "486038",
     "latitude": 1.3343169,
     "longitude": 103.9625741
-  },
-  {
-    "name": "THAI MAKAN (S10) @ CANTINE JURONG POINT",
-    "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT, Stall 10 648886",
-    "type": "Hawker",
-    "number": "EEHK20240000153",
-    "scheme": "Eating Establishment",
-    "id": "84bda1c3-5fea-4075-b1f7-82be577776b5",
-    "postal": "648886",
-    "latitude": 1.3397722,
-    "longitude": 103.7061905
   },
   {
     "name": "THAI MAKAN (S12) @ KOPITIAM TAN TOCK SENG HOSPITAL",
